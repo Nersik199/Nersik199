@@ -70,6 +70,7 @@
   <img src="https://skillicons.dev/icons?i=redis" height="40" alt="redis logo"  />
 </div>
 
+
 ###
 
 <div align="center">
@@ -79,6 +80,8 @@
 </div>
 
 ###
+
+---
 
 <br clear="both">
 
